@@ -1,1 +1,1 @@
-# IT application accounting system with statuses
+# Here will be described my actions to work with the project
